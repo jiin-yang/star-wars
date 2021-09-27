@@ -2,6 +2,11 @@
 
 ![Alt text](./public/ScreenShotStarWarsApp.png?raw=true "app ss") 
 
+### To-Do
+
+- [ ] Caching
+- [ ] Pagination
+
 ## Project setup
 ```
 yarn install
