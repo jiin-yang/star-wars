@@ -1,5 +1,7 @@
 # star-wars
 
+![Alt text](/public/Screen Shot 2021-09-27 at 23.03.27.png?raw=true "app ss") 
+
 ## Project setup
 ```
 yarn install
