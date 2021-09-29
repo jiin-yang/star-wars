@@ -5,9 +5,9 @@
 ### To-Do
 ```
 
-- [ ] Caching
-- [ ] Pagination
-- [x] Deploy container
+- ([ ]) Caching
+- ([ ]) Pagination
+- ([x]) Deploy container
 ```
 ## Project setup
 ```
