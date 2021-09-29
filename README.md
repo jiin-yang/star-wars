@@ -2,13 +2,18 @@
 
 ![Alt text](./public/ScreenShotStarWarsApp.png?raw=true "app ss") 
 
-### To-Do
-```
+### Solar System Exploration, 1950s – 1960s
 
-- ([ ]) Caching
-- ([ ]) Pagination
-- ([x]) Deploy container
-```
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 ## Project setup
 ```
 yarn install
