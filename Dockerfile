@@ -1,6 +1,8 @@
 FROM node:14
 
-WORKDIR /Users/melih.sahin/Apps/docker-apps
+ENV DOCKER_REGISTRY starwars.azurecr.io
+
+WORKDIR /Users/melih.sahin/WebstormProjects/star-wars
 
 COPY package*.json ./
 
